@@ -39,3 +39,4 @@ SET p.`height` = tempTable.`height`, p.`weight` = tempTable.`weight`;
 ## Reference
 
 - https://www.monolune.com/what-is-the-utf8mb4_0900_ai_ci-collation/
+- https://tableplus.io/blog/2018/11/how-to-update-multiple-rows-at-once-in-mysql.html
